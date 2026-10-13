@@ -1,2 +1,0 @@
-# etahra
-my first repo
